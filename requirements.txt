@@ -1,0 +1,8 @@
+streamlit
+selenium
+webdriver-manager
+pandas
+requests
+beautifulsoup4
+rapidfuzz
+lxml
